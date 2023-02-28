@@ -1,6 +1,6 @@
-#Readme
+# Readme
 
-##Introduction 
+## Introduction 
 
 This is the final project for course Data Science in Practice at Télécom Paris. It is a river compatible implementation of Incremental PCA. There are two available versions, based on different papers.
 
