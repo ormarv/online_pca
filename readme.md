@@ -1,6 +1,5 @@
 # Readme
 
-## Introduction 
 
 This is the final project for the course Data Science in Practice at Télécom Paris. There are two available versions, based on different Incremental/Online PCA algorithms.
 
